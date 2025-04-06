@@ -25,7 +25,7 @@ button:focus {
   outline: none;
 }
 
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
   header {
     margin-bottom: 4rem;
   }
@@ -33,7 +33,7 @@ button:focus {
   header h1 {
     font-size: 2.25rem;
   }
-}
+} */
 
 /* .controls {
   display: flex;
@@ -79,7 +79,7 @@ button:focus {
   gap: 1rem;
 }
 
-.button {
+/* .button {
   padding: 1rem 2rem;
   font-weight: 600;
   text-transform: uppercase;
@@ -88,11 +88,11 @@ button:focus {
   background-color: #f0b322;
   border-radius: 6px;
   border: none;
-}
+} */
 
-.button:hover {
+/* .button:hover {
   background-color: #f0920e;
-}
+} */
 
 .text-button {
   color: #f0b322;
